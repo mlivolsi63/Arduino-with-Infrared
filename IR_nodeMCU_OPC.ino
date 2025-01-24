@@ -14,8 +14,8 @@
 
 #define DELAY_AFTER_SEND 500
 
-const char* ssid     = "UB1";
-const char* password = "2324070289";
+const char* ssid     = "Your WIFI SID";
+const char* password = "Your WIFI Password";
 
 char inBuffer[4096];
 
